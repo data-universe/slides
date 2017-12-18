@@ -63,10 +63,6 @@ section.has-dark-background {
     margin-bottom: 0.2em;
   }
 
-  section img {
-    height: 70vh;
-  }
-
   .text-blue {
     color: $blue;
   }
@@ -85,5 +81,12 @@ section.has-dark-background {
     height: 3px;
     background-color: #222;
     margin: 0 auto 40px auto;
+  }
+
+  .logo {
+    width: auto;
+    height: 128px;
+    vertical-align: middle;
+    margin: 15px;
   }
 }
