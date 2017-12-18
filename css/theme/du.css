@@ -270,6 +270,8 @@ body {
     color: #5392FF; }
   .reveal li {
     margin-bottom: 0.2em; }
+  .reveal section img {
+    height: 70vh; }
   .reveal .text-blue {
     color: #5392FF; }
   .reveal .text-red {
